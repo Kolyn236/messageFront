@@ -1,0 +1,77 @@
+
+
+body{
+    background: url("../images/main_bg.png");
+}
+
+.wrapper{
+    width: 800px;
+    margin: 0 auto;
+
+}
+#logo{
+    width: 407px;
+    height: 100px;
+    margin: 15px auto 90px auto;
+    color: #636758;
+    font: 14px Arial;
+    text-align: center;
+}
+.content{
+    width: 600px;
+    height: 1300px;
+    background-color: #ffffff;
+    margin: 0 auto;
+    box-shadow:0 0 10px rgba(0,0,0,0.5);
+}
+.sheeps{
+    width: 600px;
+    height: 400px;
+    background-image: url("../images/sheeps.png");
+}
+
+.articles{
+    height: 702px;
+}
+.content h1{
+    font-weight: bold;
+    font-size: 24px;
+    color: #484a43;
+    text-align: center;
+    margin-top: 49px;
+    margin-bottom: 40px;
+}
+.news {
+    height: 263px;
+    width: 255px;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+.news img {
+    height: 150px;
+    width: 255px;
+}
+.content h2 {
+    font-weight: bold;
+    color: #6d7e44;
+    font-size: 14px;
+}
+.articles p {
+    font-size: 12px;
+}
+#bigblock{
+    width: 540px;
+    height: 220px;
+    margin: auto;
+    margin-top: 20px ;
+}
+.divider{
+    margin-left: 28px;
+}
+.contacts h1{
+    font-size: 14px;
+    font-weight: bold;
+}
+
